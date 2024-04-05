@@ -4,7 +4,7 @@
   <div class="bg-gray-50">
     <NuxtLoadingIndicator />
 
-    <!-- <header>
+  <header>
       <div class="py-[20px] px-[50px]">
         <div class="flex flex-wrap gap-x-4">
           <NuxtLink to="/">Home</NuxtLink>
@@ -26,7 +26,7 @@
           <NuxtLink to="/tooltip">Tooltip</NuxtLink>
         </div>
       </div>
-    </header> -->
+    </header> 
 
     <div class="pb-[20px] px-[0px]">
       <NuxtPage />
